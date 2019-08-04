@@ -4,7 +4,7 @@ class Person
     puts "Hello World!"
   end
 
-  def walk 
+  def walk
     
-  end 
+  end
 end
